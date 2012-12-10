@@ -1,0 +1,13 @@
+The Ruby API:
+http://http://ruby-doc.org/
+
+Programming Ruby: The Programmer's Guide
+http://www.ruby-doc.org/docs/ProgrammingRuby/
+
+gsub substitutes part of a string with another string.
+
+Ruby Regular Expression Information
+http://www.ruby-doc.org/core-1.9.3/Regexp.html
+
+Ranges in Ruby
+http://www.ruby-doc.org/core-1.9.3/Range.html
